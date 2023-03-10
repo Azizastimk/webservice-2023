@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<curriculumVitae>
+	<identitasDiri>
+		<nama>Aziza Nurul Amanah</nama>
+		<lahir>Palembang, 29 Agustus 1996</lahir>
+		<jurusan>Teknik Informatika</jurusan>
+		<nim>2110025</nim>
+		<alamat>Komplek Griya Mulya Permai Blok B No 08, Gang Juventus</alamat>
+		<kecamatan>Sekayu</kecamatan>
+		<kabupaten>Musi Banyuasin</kabupaten>
+		<provinsi>Sumatera Selatan</provinsi>
+		<surel>azizaazzahra2@gmail.com</surel>
+		<telp>089602856719</telp>
+	</identitasDiri>
+	<identitasOrtu>
+		<identitasAyah>
+			<namaAyah>Azhari</namaAyah>
+			<lahir>Babat Toman, 20 Oktober 1960</lahir>
+			<alamat>Komplek Griya Mulya Permai Blok B No 08, Gang Juventus</alamat>
+			<kecamatan>Sekayu</kecamatan>
+			<kabupaten>Musi Banyuasin</kabupaten>
+			<provinsi>Sumatera Selatan</provinsi>
+			<pekerjaan>pensiun</pekerjaan>
+		</identitasAyah>
+		<identitasIbu>
+			<namaIbu>Ariazuma</namaIbu>
+			<lahir>Bailangu, 02 Oktober 1965</lahir>
+			<alamat>Komplek Griya Mulya Permai Blok B No 08, Gang Juventus</alamat>
+			<kecamatan>Sekayu</kecamatan>
+			<kabupaten>Musi Banyuasin</kabupaten>
+			<provinsi>Sumatera Selatan</provinsi>
+			<pekerjaan>Guru PNS</pekerjaan>
+		</identitasIbu>
+	</identitasOrtu>
+</curriculumVitae>
